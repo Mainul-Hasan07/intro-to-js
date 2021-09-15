@@ -20,8 +20,7 @@ var sunglass =3;
 var onionPrice = '43';
 var eggPrice = '44.50';
 
-// var onionPriceNumber = parseInt(onionPrice);
-// var eggPriceNumber = parseFloat(eggPrice);
+ var onionPriceNumber = parseInt(onionPrice); var eggPriceNumber = parseFloat(eggPrice);
 // console.log(eggPriceNumber);
 // console.log(onionPriceNumber);
 // console.log(onionPriceNumber + eggPriceNumber);
